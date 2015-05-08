@@ -1,0 +1,6 @@
+C:\Users\aalston\Documents\GitHub\SkioTheory2\SkioTheory2\SkioTheory2\bin\SkioTheory2.dll.config
+C:\Users\aalston\Documents\GitHub\SkioTheory2\SkioTheory2\SkioTheory2\bin\SkioTheory2.dll
+C:\Users\aalston\Documents\GitHub\SkioTheory2\SkioTheory2\SkioTheory2\bin\SkioTheory2.pdb
+C:\Users\aalston\Documents\GitHub\SkioTheory2\SkioTheory2\SkioTheory2\obj\Debug\SkioTheory2.csprojResolveAssemblyReference.cache
+C:\Users\aalston\Documents\GitHub\SkioTheory2\SkioTheory2\SkioTheory2\obj\Debug\SkioTheory2.dll
+C:\Users\aalston\Documents\GitHub\SkioTheory2\SkioTheory2\SkioTheory2\obj\Debug\SkioTheory2.pdb
